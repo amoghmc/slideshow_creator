@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SlideshowGeneratorApplication
+class SlideshowCreatorApplication
 
 fun main(args: Array<String>) {
-	runApplication<SlideshowGeneratorApplication>(*args)
+	runApplication<SlideshowCreatorApplication>(*args)
 }
